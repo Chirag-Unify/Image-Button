@@ -1,0 +1,55 @@
+{
+  "55:61114": {
+    "component": {
+      "componentType": "FRAME",
+      "appearance": {
+        "objectFit": "FILL",
+        "styles": {
+          "layout": "INHERIT",
+          "padding": {
+            "all": null
+          },
+          "margin": {
+            "all": null
+          },
+          "borderRadius": {
+            "all": "rounded-[10px]"
+          },
+          "rotation": {
+            "custom": null
+          },
+          "width": "w-[110px]",
+          "minWidth": null,
+          "maxWidth": null,
+          "height": "h-[110px]"
+        }
+      },
+      "content": {
+        "src": "images/1.jpeg",
+        "alt": "Image"
+      }
+    },
+    "dpOn": [],
+    "visibility": {
+      "value": true
+    },
+    "displayName": "Image",
+    "dataSourceIds": [],
+    "id": "55:61114",
+    "events": [
+      {
+        "action": {
+          "actionType": "controlBlockMethod",
+          "payload": {
+            "blockId": "55:61114",
+            "methodName": "openInMediaViewer"
+          },
+          "id": "act_55:61114"
+        },
+        "id": "evt_55:61114",
+        "eventType": "onClick"
+      }
+    ],
+    "parentId": "root_id"
+  }
+}

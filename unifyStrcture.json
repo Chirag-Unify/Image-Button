@@ -1,0 +1,53 @@
+
+                        "component": {
+                            "componentType": "Image",
+                            "appearance": {
+                                "objectFit": "object-contain",
+                                "styles": {
+                                    "layout": "self-end",
+                                    "padding": {
+                                        "all": "p-lg"
+                                    },
+                                    "margin": {
+                                        "all": "m-xl"
+                                    },
+                                    "borderRadius": {
+                                        "all": "rounded-3xl"
+                                    },
+                                    "rotation": {
+                                        "custom": "30deg"
+                                    },
+                                    "width": "w-[400px]",
+                                    "minWidth": "min-w-[200px]",
+                                    "maxWidth": "max-w-full",
+                                    "height": "h-[400px]"
+                                }
+                            },
+                            "content": {
+                                "src": "https://picsum.photos/id/46/600/300",
+                                "alt": "placeholder"
+                            }
+                        },
+                        "dpOn": [],
+                        "visibility": {
+                            "value": true
+                        },
+                        "displayName": "Image_1",
+                        "dataSourceIds": [],
+                        "id": "b_vu4BK",
+                        "events": [
+                            {
+                                "action": {
+                                    "actionType": "controlBlockMethod",
+                                    "payload": {
+                                        "blockId": "b_vu4BK",
+                                        "methodName": "openInMediaViewer"
+                                    },
+                                    "id": "act_BSsRM"
+                                },
+                                "id": "evt_woDLg",
+                                "eventType": "onClick"
+                            }
+                        ],
+                        "parentId": "root_id"
+                    },

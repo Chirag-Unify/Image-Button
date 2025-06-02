@@ -1,0 +1,119 @@
+{
+  "Result": {
+    "name": "SaS-Employee Management App",
+    "lastModified": "2025-06-02T06:57:22Z",
+    "thumbnailUrl": "https://s3-alpha.figma.com/thumbnails/519fcf55-626f-4455-8153-514afb2903c5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCWP5TY7EM%2F20250601%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250601T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=10938e48398059f538cf14719fc259c33e7b1074455747c5fc01953e5cdd5936",
+    "version": "2224947030151320155",
+    "role": "editor",
+    "editorType": "figma",
+    "linkAccess": "view",
+    "nodes": {
+      "55:61114": {
+        "document": {
+          "id": "55:61114",
+          "name": "Image",
+          "type": "FRAME",
+          "scrollBehavior": "SCROLLS",
+          "children": [],
+          "blendMode": "NORMAL",
+          "clipsContent": true,
+          "background": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": {
+                "r": 0.8099446892738342,
+                "g": 0.8099446892738342,
+                "b": 0.8099446892738342,
+                "a": 1
+              }
+            },
+            {
+              "blendMode": "NORMAL",
+              "type": "IMAGE",
+              "scaleMode": "FILL",
+              "imageRef": "c744752b8f43d3524c56e5a81942292b1ca1693a",
+              "filters": {
+                "exposure": 0.14000000059604645,
+                "contrast": -0.30000001192092896
+              }
+            }
+          ],
+          "fills": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": {
+                "r": 0.8099446892738342,
+                "g": 0.8099446892738342,
+                "b": 0.8099446892738342,
+                "a": 1
+              }
+            },
+            {
+              "blendMode": "NORMAL",
+              "type": "IMAGE",
+              "scaleMode": "FILL",
+              "imageRef": "c744752b8f43d3524c56e5a81942292b1ca1693a",
+              "filters": {
+                "exposure": 0.14000000059604645,
+                "contrast": -0.30000001192092896
+              }
+            }
+          ],
+          "strokes": [],
+          "cornerRadius": 10,
+          "cornerSmoothing": 0,
+          "strokeWeight": 1,
+          "strokeAlign": "INSIDE",
+          "backgroundColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 0
+          },
+          "layoutMode": "HORIZONTAL",
+          "counterAxisSizingMode": "FIXED",
+          "primaryAxisSizingMode": "FIXED",
+          "layoutWrap": "NO_WRAP",
+          "absoluteBoundingBox": {
+            "x": 1601,
+            "y": 3199,
+            "width": 110,
+            "height": 110
+          },
+          "absoluteRenderBounds": {
+            "x": 1601,
+            "y": 3199,
+            "width": 110,
+            "height": 110
+          },
+          "constraints": {
+            "vertical": "TOP",
+            "horizontal": "LEFT"
+          },
+          "layoutAlign": "INHERIT",
+          "layoutGrow": 0,
+          "layoutSizingHorizontal": "FIXED",
+          "layoutSizingVertical": "FIXED",
+          "exportSettings": [
+            {
+              "suffix": "",
+              "format": "SVG",
+              "constraint": {
+                "type": "SCALE",
+                "value": 1
+              }
+            }
+          ],
+          "effects": [],
+          "interactions": []
+        },
+        "components": {},
+        "componentSets": {},
+        "schemaVersion": 0,
+        "styles": {}
+      }
+    }
+  }
+}
